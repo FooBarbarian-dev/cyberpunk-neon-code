@@ -1,0 +1,34 @@
+{
+  "name": "cyberpunk-neon",
+  "displayName": "Cyberpunk Neon",
+  "description": "A dark cyberpunk theme for VS Code — neon cyan on deep blue, magenta keywords, orange strings. Faithful port of Roboron3042's Cyberpunk-Neon palette, tuned for contrast headroom under window-level transparency tools like GlassIt.",
+  "version": "0.1.0",
+  "publisher": "FooBarbarian-dev",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "cyberpunk",
+    "neon",
+    "color-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FooBarbarian-dev/cyberpunk-neon-code"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk-neon-color-theme.json"
+      }
+    ]
+  }
+}

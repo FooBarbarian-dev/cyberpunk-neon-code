@@ -1,5 +1,8 @@
 # Cyberpunk Neon for VS Code
 
+![Cyberpunk Neon Rust Example](screenshots/screenshot-rust.png)
+![Cyberpunk Neon Python Example](screenshots/screenshot-python.png)
+
 A dark cyberpunk color theme: neon cyan (`#0abdc6`) on deep blue (`#000b1e`),
 magenta keywords, orange strings. A faithful port of
 [Roboron3042's Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon)
